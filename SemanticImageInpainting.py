@@ -29,8 +29,8 @@ class SemanticImageInpainting:
         else:
             dcgan = DCGAN()
             dcgan.train()
-
-        img = np.array(Image.open("F://BaiduNetdiskDownload//CelebA//Img//img_align_celeba//032895.jpg"))
+        
+        img = np.array(Image.open("./celeba//032895.jpg"))
         h = img.shape[0]
         w = img.shape[1]
         img = misc.imresize(img[(h // 2 - 70):(h // 2 + 70), (w // 2 - 70):(w // 2 + 70), :], [64, 64]) / 127.5 - 1.0
