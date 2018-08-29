@@ -7,4 +7,7 @@ This code simplely implement the paper [Semantic Image Inpainting with Deep Gene
 ## Method
 The method of the paper is divided into two stages,
 First, train the [DCGAN](http://cn.arxiv.org/abs/1511.06434) to get the pretrained model(generator, discriminator).
-Second, 
+
+Second, use the pretrained model of DCGAN from the first stage.
+
+Writting.......
