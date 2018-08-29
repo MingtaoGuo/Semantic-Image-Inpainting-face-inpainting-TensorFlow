@@ -1,0 +1,1 @@
+Weights of generator and discriminator
