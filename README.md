@@ -34,7 +34,7 @@ In the first stage, we select the [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/
 |![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/o3.jpg)|![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/i3.jpg)|![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/c3.jpg)|
 |![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/o4.jpg)|![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/i4.jpg)|![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/c4.jpg)|
 
-|Training|
+|Inpainting|
 |-|
 |![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/4.gif)|
 |![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/1.gif)|
