@@ -40,3 +40,5 @@ In the first stage, we select the [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/
 |![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/1.gif)|
 |![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/2.gif)|
 |![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/3.gif)|
+
+col 1: raw image, col 2: incompleted image, col 3: generated image by latent space, col 4: completed image
