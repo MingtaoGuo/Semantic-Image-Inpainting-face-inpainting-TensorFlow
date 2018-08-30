@@ -6,8 +6,27 @@ This code simplely implement the paper [Semantic Image Inpainting with Deep Gene
 ![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/paper.jpg)
 ## Method
 The method of the paper is divided into two stages,
+
 First, train the [DCGAN](http://cn.arxiv.org/abs/1511.06434) to get the pretrained model(generator, discriminator).
 
-Second, use the pretrained model of DCGAN from the first stage.
+Second, use the pretrained model of DCGAN from the first stage to train the input of the generator, a little similar with neural style transfer.
+## Python packages
+======================
 
-Writting.......
+tensorflow 1.4.0
+
+python 3.5
+
+pillow
+
+numpy
+
+scipy
+
+======================
+## Dataset
+In the first stage, we select the [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) as the dataset of the DCGAN to get the pretrained model, and remain 1000 as test data in the second stage.
+## Results
+|a|b|
+|-|-|
+|a|a|
