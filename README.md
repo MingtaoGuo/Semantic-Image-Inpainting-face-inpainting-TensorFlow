@@ -27,6 +27,6 @@ scipy
 ## Dataset
 In the first stage, we select the [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) as the dataset of the DCGAN to get the pretrained model, and remain 1000 as test data in the second stage.
 ## Results
-|a|b|
-|-|-|
-|a|a|
+|Raw|incomplete|completed|
+|-|-|-|
+|![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/o1.jpg)|![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/i1.jpg)|![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/c1.jpg)|
