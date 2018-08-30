@@ -39,3 +39,4 @@ In the first stage, we select the [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/
 |![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/4.gif)|
 |![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/1.gif)|
 |![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/2.gif)|
+|![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/3.gif)|
