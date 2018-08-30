@@ -27,8 +27,9 @@ scipy
 ## Dataset
 In the first stage, we select the [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) as the dataset of the DCGAN to get the pretrained model, and remain 1000 as test data in the second stage.
 ## Results
-|Raw|incomplete|completed|
+|Raw|incompleted|completed|
 |-|-|-|
 |![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/o1.jpg)|![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/i1.jpg)|![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/c1.jpg)|
 |![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/o2.jpg)|![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/i2.jpg)|![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/c2.jpg)|
 |![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/o3.jpg)|![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/i3.jpg)|![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/c3.jpg)|
+|![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/o4.jpg)|![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/i4.jpg)|![](https://github.com/MingtaoGuo/Semantic-Image-Inpainting/blob/master/IMAGE/c4.jpg)|
