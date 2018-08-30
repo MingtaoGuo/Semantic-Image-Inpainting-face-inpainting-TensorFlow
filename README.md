@@ -9,7 +9,7 @@ The method of the paper is divided into two stages,
 
 First, train the [DCGAN](http://cn.arxiv.org/abs/1511.06434) to get the pretrained model(generator, discriminator).
 
-Second, use the pretrained model of DCGAN from the first stage to train the input of the generator, a little similar with neural style transfer.
+Second, use the pretrained model of DCGAN from the first stage to train the input(z) of the generator, a little similar with neural style transfer.
 ## Python packages
 ======================
 
