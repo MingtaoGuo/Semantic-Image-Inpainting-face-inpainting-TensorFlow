@@ -8,7 +8,7 @@ class Generator:
         self.name = name
 
     def __call__(self, Z):
-        with tf.variable_scope(self.name):
+        with tf.variable_scope(self.name, reuse=tf.AUTO_REUSE):
             inputs = tf.reshape(tf.nn.relu((fully_connected("linear", Z, 4*4*512))), [-1, 4, 4, 512])
             inputs = tf.nn.relu(InstanceNorm(uconv("deconv1", inputs, 256, 5, 2), "IN1"))
             inputs = tf.nn.relu(InstanceNorm(uconv("deconv2", inputs, 128, 5, 2), "IN2"))
