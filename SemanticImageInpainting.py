@@ -46,7 +46,7 @@ class SemanticImageInpainting:
                 print("Step: %d, Loss: %f"%(i, Loss))
                 blend = output * mask + img * (1 - mask)
                 out = np.concatenate((y[0, :, :, :], output[0, :, :, :], blend[0, :, :, :]), 1)
-                Image.fromarray(np.uint8((out + 1.0) * 127.5)).save("./complete_img//"+str(i)+".jpg")
+                Image.fromarray(np.uint8((out + 1.0) * 127.5)).save("./completed_img//"+str(i)+".jpg")
 
 if __name__ == "__main__":
     sii = SemanticImageInpainting()
